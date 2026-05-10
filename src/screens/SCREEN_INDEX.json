@@ -1,0 +1,47 @@
+[
+  {
+    "screenId": "8e315261c9844edb979c27a68c679f7a",
+    "title": "Settings",
+    "componentName": "Settings",
+    "file": "src/screens/Settings.tsx",
+    "buttons": 6,
+    "inputs": 5,
+    "links": 4
+  },
+  {
+    "screenId": "9698d83da4284076ad7416d1a0c34a79",
+    "title": "Playfield",
+    "componentName": "Playfield",
+    "file": "src/screens/Playfield.tsx",
+    "buttons": 6,
+    "inputs": 0,
+    "links": 7
+  },
+  {
+    "screenId": "3f3ab6dde40b42a4940a6229caaf142b",
+    "title": "Game Results",
+    "componentName": "GameResults",
+    "file": "src/screens/GameResults.tsx",
+    "buttons": 3,
+    "inputs": 0,
+    "links": 0
+  },
+  {
+    "screenId": "3d337b64bfb44fdb96975d207b507e25",
+    "title": "Main Menu",
+    "componentName": "MainMenu",
+    "file": "src/screens/MainMenu.tsx",
+    "buttons": 5,
+    "inputs": 0,
+    "links": 4
+  },
+  {
+    "screenId": "2c34dc6f716f423c953efbb3c2c346bf",
+    "title": "Help & Rules",
+    "componentName": "HelpRules",
+    "file": "src/screens/HelpRules.tsx",
+    "buttons": 3,
+    "inputs": 0,
+    "links": 6
+  }
+]
